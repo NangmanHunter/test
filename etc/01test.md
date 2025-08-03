@@ -8,7 +8,6 @@ sad
 - code .
 
 >Note
----
 - ```
   - Alt+E
   - Alt+D
