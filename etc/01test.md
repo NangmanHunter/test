@@ -7,7 +7,9 @@ sad
 - cmd
 - code .
 
->Note
+<details>
+    <summary>test</summary>
+
 - ```
   - Alt+E
   - Alt+D
@@ -25,4 +27,5 @@ sad
   - 현재경로창
   - cmd
   - code .
-  ```
+  ```    
+</details>
