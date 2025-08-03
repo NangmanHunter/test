@@ -2,13 +2,15 @@
 sad
 
 ## VsCdoe열기
+
+<details>
+    <summary>
+
 - 파일탐색기
 - Alt+D
 - cmd
 - code .
-
-<details>
-    <summary>test</summary>
+    </summary>
 
 - ```
   - Alt+E
