@@ -1,4 +1,0 @@
-- Remote↔️Local
-- RemoteMain↔️LocalMain
-- RemoteBranch↔️LocalBranch
-- RemoteRepository↔️LocalRepository
