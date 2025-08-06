@@ -1,11 +1,11 @@
 ﻿- ba + sh
-- ba + Shell
-- ba + shell
 - Ba + Shell
+- ba + shell
+- ba + Shell
 - ba+sh
-- Bash
-- BaSh
 - bash
+- BaSh
+- Bash
 - ba-sh
 - bash: 특정한 쉘 프로그램 (가장 인기 많음)
 - BaShell

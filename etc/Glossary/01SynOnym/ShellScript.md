@@ -1,4 +1,4 @@
-﻿- Shell Script
-- shell script
+﻿- shell script
+- Shell Script
 - shell script: 쉘 명령어를 담은 스크립트 (종류 불문)
 - ShellScript

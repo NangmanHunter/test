@@ -1,27 +1,27 @@
 ﻿- .gitignore
 - .gitignore파일
-- Git Ignore
-- Git ignore
 - git ignore
 - GIT Ignore
-- gitignore
-- GitIgnore
+- Git Ignore
+- Git ignore
 - GITIgnore
+- GitIgnore
+- gitignore
 - git-ignore
-- ignore
 - Ignore
-- ignored
+- ignore
 - Ignored
-- IgnoreGit
+- ignored
 - ignoregit
+- IgnoreGit
 - ignore-git
 - IgnoreTrack
-- UnTrack
-- untrack
 - Untrack
-- UnTracked
-- untracked
+- untrack
+- UnTrack
 - Untracked
+- untracked
+- UnTracked
 - 무시
 - 이미 Git이 추적하고 있는 파일은 .gitignore로 무시할 수 없슴
 - 이미추적▶️❌GitIgnore적용
