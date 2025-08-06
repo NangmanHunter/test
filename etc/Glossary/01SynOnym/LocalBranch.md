@@ -1,16 +1,16 @@
 ﻿- branch
-- local branch
 - Local Branch
-- LocalBranch
-- Localbranch
+- local branch
 - localbranch
 - localBranch
-- UnReomte Branch
+- LocalBranch
+- Localbranch
 - Unreomte Branch
-- UonReomte Branch
+- UnReomte Branch
 - Uonreomte Branch
-- Uon-reomte Branch
+- UonReomte Branch
 - Uon-Reomte Branch
+- Uon-reomte Branch
 - 근격브랜치
 - 동격브랜치
 - 로컬브랜치

@@ -4,9 +4,9 @@
 - OriginRepository
 - Repository
 - web URL
-- webURL
-- WEBURL
 - WebURL
+- WEBURL
+- webURL
 - 📁https
 - 📁https ...
 - 📁https...

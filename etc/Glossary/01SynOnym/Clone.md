@@ -1,9 +1,9 @@
-﻿- Clone
-- clone
+﻿- clone
+- Clone
 - Clone▶️Pull
 - CloneGit
-- Git Clone
 - git clone
+- Git Clone
 - git clone ...
 - git clone https:// ...
 - GitClone

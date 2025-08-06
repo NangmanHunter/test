@@ -1,10 +1,10 @@
-﻿- git hook
-- Git Hook
+﻿- Git Hook
+- git hook
 - Git Hooks
 - GitHook
 - GitHooks
-- Hook
 - hook
+- Hook
 - hook(훅)
 - Hooks
 - 📌GitHook▶️Ex. git commit 하기 전에 코드 검사 자동 수행

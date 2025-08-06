@@ -1,5 +1,5 @@
-﻿- Create
-- create
-- Creation
+﻿- create
+- Create
 - creation
+- Creation
 - 생성

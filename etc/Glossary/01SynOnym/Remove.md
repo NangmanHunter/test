@@ -1,5 +1,5 @@
-﻿- delete
-- Delete
-- remove
+﻿- Delete
+- delete
 - Remove
+- remove
 - 삭제
