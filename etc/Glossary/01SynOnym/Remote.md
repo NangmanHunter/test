@@ -1,6 +1,6 @@
 ﻿- Origin
-- Remote
 - remote
+- Remote
 - Remote▶️Origin
 - remote▶️원격 저장소를 지칭하는 범용 개념. 이름이 여러 개일 수 있음 (origin, upstream, 등)
 - 📌표현▶️(Remote↔️Local)>>(Local↔️Remote)

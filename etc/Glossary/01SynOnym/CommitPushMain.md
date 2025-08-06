@@ -1,11 +1,11 @@
-﻿- Commit▶️PushMain
-- Commit▶️Pushmain
-- CommitPushMain
+﻿- Commit▶️Pushmain
+- Commit▶️PushMain
 - CommitPushmain
-- Stage▶️Commit▶️PushMain
+- CommitPushMain
 - Stage▶️Commit▶️Pushmain
+- Stage▶️Commit▶️PushMain
 - StageCommitPushMain
-- Staging▶️Commit▶️PushMain
 - Staging▶️Commit▶️Pushmain
-- StagingCommitPushmain
+- Staging▶️Commit▶️PushMain
 - StagingCommitPushMain
+- StagingCommitPushmain

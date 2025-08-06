@@ -3,9 +3,9 @@
 - #!/ ...
 - #!<실행할 프로그램 경로>
 - #(hash) + !(bang)
-- haSHbang
-- HaSHbang
 - Hashbang
+- HaSHbang
+- haSHbang
 - Sh+Bang
 - Sha + Bang
 - Sha- + Bang
@@ -13,15 +13,15 @@
 - Sha-+Bang
 - Sharp + Bang
 - Sharp+Bang
-- Shbang
 - SHbang
+- Shbang
 - She + Bang
 - She- + Bang
 - She+Bang
 - She-+Bang
-- Shebang
-- Shebang
 - SHebang
+- Shebang
+- Shebang
 - shebang = "sharp" + "bang"의 조합
 - Shebang 또는 Hashbang
 - 📌!▶️bang (프로그래머들 사이에서 느낌표 !를 "bang"이라 부름)
