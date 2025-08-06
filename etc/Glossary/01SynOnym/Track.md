@@ -1,26 +1,26 @@
-- track
-- tracked
-- Track
-- Tracked
-- TrackGit
+﻿- GitInclude
 - GitTrack
+- GitUnignore
 - include
-- included
 - Include
+- include (포함하다)
 - Included
+- included
 - IncludeGit
-- GitInclude
-- unignore
-- unignored
-- Unignore
-- Unignored
+- Track
+- track
+- track (추적하다)
+- Tracked
+- tracked
+- TrackGit
 - UnIgnore
+- Unignore
+- unignore
+- unignore (무시에서 제외하다) 
+- unignored
+- Unignored
 - UnIgnored
 - UnignoreGit
-- GitUnignore
+- 무시에서 제외하다
 - 추적하다
 - 포함하다
-- 무시에서 제외하다
-- track (추적하다)
-- include (포함하다)
-- unignore (무시에서 제외하다) 

@@ -1,18 +1,18 @@
-- LocalBranch
-- Localbranch
+﻿- branch
 - Local Branch
-- UnReomte Branch
-- Unreomte Branch
-- Uonreomte Branch
-- Uon-reomte Branch
-- Uon-Reomte Branch
-- UonReomte Branch
-- localBranch
 - local branch
 - localbranch
-- branch
-- 브랜치
-- 로컬브랜치
-- 동격브랜치
+- localBranch
+- LocalBranch
+- Localbranch
+- Unreomte Branch
+- UnReomte Branch
+- Uonreomte Branch
+- UonReomte Branch
+- Uon-Reomte Branch
+- Uon-reomte Branch
 - 근격브랜치
+- 동격브랜치
+- 로컬브랜치
+- 브랜치
 - 비원격브랜치

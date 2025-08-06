@@ -1,15 +1,15 @@
-- ChangeDirectoryCloneGit
-- CdCloneGit
-- CDCloneGit
+﻿- Cd Clone
+- Cd+Clone
+- Cd▶️Clone
+- cd▶️clone
+- CD▶️Clone
+- cd▶️git clone
 - CDClone
 - CdClone
-- Cd▶️Clone
-- Cd+Clone
-- Cd Clone
-- ChangeDirectory CloneGit
+- CdCloneGit
+- CDCloneGit
 - ChangeDirectory Clone
-- ChangeDirectoryClone
+- ChangeDirectory CloneGit
 - ChangeDirectory▶️Clone
-- CD▶️Clone
-- cd▶️clone
-- cd▶️git clone
+- ChangeDirectoryClone
+- ChangeDirectoryCloneGit

@@ -1,5 +1,5 @@
-- GitStrategy
-- StrategyGit
-- Strategy
-- 깃전략
+﻿- GitStrategy
 - Git전략
+- Strategy
+- StrategyGit
+- 깃전략

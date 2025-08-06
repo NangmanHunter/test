@@ -1,6 +1,6 @@
-- RemoteRepository
+﻿- Remote
 - Remote Repository
-- 원격저장소
-- Remote
+- RemoteRepository
 - 원격
 - 원격 저장소
+- 원격저장소

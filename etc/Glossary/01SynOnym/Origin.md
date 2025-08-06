@@ -1,9 +1,9 @@
-- origin⊂remote
-- remote⊃origin
+﻿- git clone👉내 fork 저장소를 로컬에 복사함. 기본 원격은 origin임
 - origin
+- origin⊂remote
+- origin이름이 default로 잡힘.
+- remote⊃origin
 - remote의 기본 이름(default name). 보통 git clone 하면 자동으로 붙는 원격 저장소의 이름.
 - 📌01▶️git clone https://github.com/user/repo.git
 - 📌02▶️remote 이름: origin
 - 📌03▶️remote 주소: https://github.com/user/repo.git
-- git clone👉내 fork 저장소를 로컬에 복사함. 기본 원격은 origin임
-- origin이름이 default로 잡힘.

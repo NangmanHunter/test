@@ -1,6 +1,6 @@
-- LocalRepository
+﻿- Local
 - Local Repository
-- 로컬저장소
+- LocalRepository
 - 로컬
-- Local
 - 로컬 저장소
+- 로컬저장소

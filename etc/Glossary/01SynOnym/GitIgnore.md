@@ -1,34 +1,34 @@
-- GitIgnore
-- GITIgnore
-- GIT Ignore
-- IgnoreGit
-- IgnoreTrack
+﻿- .gitignore
+- .gitignore파일
 - Git Ignore
 - Git ignore
 - git ignore
-- git-ignore
+- GIT Ignore
 - gitignore
-- .gitignore
-- .gitignore파일
+- GitIgnore
+- GITIgnore
+- git-ignore
 - ignore
-- ignore-git
-- ignoregit
-- ignored
 - Ignore
+- ignored
 - Ignored
-- 제외
-- 추적제외
-- 무시
-- 포함제외
-- 이미추적▶️❌GitIgnore적용
-- 캐시제거▶️✅GitIgnore적용
-- 이미 Git이 추적하고 있는 파일은 .gitignore로 무시할 수 없슴
-- 이미추적▶️무시불능
-- 이미추적▶️❌무시
-- 캐시제거▶️❌무시
-- untracked
+- IgnoreGit
+- ignoregit
+- ignore-git
+- IgnoreTrack
+- UnTrack
 - untrack
-- Untracked
 - Untrack
 - UnTracked
-- UnTrack
+- untracked
+- Untracked
+- 무시
+- 이미 Git이 추적하고 있는 파일은 .gitignore로 무시할 수 없슴
+- 이미추적▶️❌GitIgnore적용
+- 이미추적▶️❌무시
+- 이미추적▶️무시불능
+- 제외
+- 추적제외
+- 캐시제거▶️✅GitIgnore적용
+- 캐시제거▶️❌무시
+- 포함제외

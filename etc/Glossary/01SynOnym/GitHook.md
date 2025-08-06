@@ -1,14 +1,14 @@
-- 특정 Git 동작(예: 커밋, 푸시 등)이 실행될 때, 자동으로 실행되는 사용자 정의 스크립트
-- Git Hook
-- GitHook
-- Hook
-- Git Hooks
-- GitHooks
-- Hooks
-- hook(훅)
-- hook
-- 자동화 작업을 사전에 설정해놓는 것
+﻿- Git Hook
 - git hook
+- Git Hooks
+- GitHook
+- GitHooks
+- hook
+- Hook
+- hook(훅)
+- Hooks
 - 📌GitHook▶️Ex. git commit 하기 전에 코드 검사 자동 수행
 - 📌GitHook▶️Ex. git push 전에 테스트 자동 실행
 - 📌GitHook▶️Ex. 커밋 메시지 강제 형식 검사 등
+- 자동화 작업을 사전에 설정해놓는 것
+- 특정 Git 동작(예: 커밋, 푸시 등)이 실행될 때, 자동으로 실행되는 사용자 정의 스크립트
