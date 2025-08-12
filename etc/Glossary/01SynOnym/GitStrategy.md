@@ -1,5 +1,0 @@
-﻿- GitStrategy
-- Git전략
-- Strategy
-- StrategyGit
-- 깃전략

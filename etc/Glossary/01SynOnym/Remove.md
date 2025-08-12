@@ -1,5 +1,0 @@
-﻿- delete
-- Delete
-- remove
-- Remove
-- 삭제

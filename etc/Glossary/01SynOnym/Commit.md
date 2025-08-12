@@ -1,4 +1,0 @@
-﻿- Commit
-- Stage▶️Commit
-- Staging▶️Commit
-- StagingCommit
