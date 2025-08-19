@@ -1,10 +1,22 @@
 - > $K$
   > - $K_c$
   > - $K_P$
+
+❌  
 - > [!Caution]
   > 평형상수$K$
   > - 농도평형상수$K_c$
   > - 압력평형상수$K_P$
+
+- ❌GitHub
+- ✅MarkDownPreView
+
+
+
+> ```
+> sds
+> ```
+
 
 > [!Caution]
 > 평형상수$K$
