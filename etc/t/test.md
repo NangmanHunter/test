@@ -3,7 +3,7 @@
   > - $K_P$
 
 <details>
-  <summmary></summmary>
+  <summary></summary>
 
 aa
 bvb
